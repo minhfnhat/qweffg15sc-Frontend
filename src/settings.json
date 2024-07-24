@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions.",
+        "title": "Build Your Dream Home Faster Than Ever"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions.",
+        "title": "Build Your Dream Home Faster Than Ever"
+      }
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions.",
+        "title": "Build Your Dream Home Faster Than Ever"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions.",
+        "title": "Build Your Dream Home Faster Than Ever"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions.",
+        "title": "Build Your Dream Home Faster Than Ever"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions.",
+        "title": "Build Your Dream Home Faster Than Ever"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions.",
+        "title": "Build Your Dream Home Faster Than Ever"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions.",
+        "title": "Build Your Dream Home Faster Than Ever"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions.",
+        "title": "Build Your Dream Home Faster Than Ever"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Build Your Dream Home Faster Than Ever",
+  "subtitle": "Seamlessly design and construct the perfect house with our innovative solutions."
+}
